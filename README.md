@@ -2,8 +2,7 @@
 > Role-Based Access Control (RBAC) & Deep Payload Inspection Proxy for Autonomous AI Agents
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)
-![Build](https://img.shields.io/badge/CI%2FCD-Passing-2ea44f?style=flat-square&logo=githubactions&logoColor=white)
-![Security](https://img.shields.io/badge/SAST-Bandit%20Verified-blueviolet?style=flat-square)
+[![CI](https://github.com/saadcyber21/zero-trust-ai-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/saadcyber21/zero-trust-ai-gateway/actions)
 ![OWASP LLM](https://img.shields.io/badge/OWASP-Agent%20Security-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-informational?style=flat-square)
 
